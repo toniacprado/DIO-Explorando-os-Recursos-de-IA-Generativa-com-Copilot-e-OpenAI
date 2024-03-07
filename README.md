@@ -26,9 +26,35 @@ Head of Cloud and Cybersecurity, CloudData Tech & DevOps
 
 ---
 
-### Azure Machine Learning.
+### Copilot.
 
-Os elementos testados fazem parte da suite de inteligência artificial do Azure AI services. 
+Os elementos testados foram usados acessando o link aberto:
+
+https://copilot.microsoft.com/
+
+A interação com o Copilot é estilo conversacional em linguagem natural, seguindo ao estilo da instrutora deste módulo fiz algumas perguntas sobre viagem no inverno. Segue print dos exemplos:
+
+![image](https://github.com/toniacprado/DIO-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/105946569/2827be22-eee1-4298-8997-a8f2099c0915)
+
+Note que no exemplo acima o Copilot não mencionou os destinos de inverno do sul do país, então eu fui mais direto na pegunta:
+
+![image](https://github.com/toniacprado/DIO-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/105946569/bd3c5b56-8847-42d0-9999-5407e7407726)
+
+
+É da natureza do Copilot que a interação seja interativa, vale a pena ir explorando as respostas em formato de conversa se os assuntos tiverem ligação entre si.
+
+#### Usando o Copilot para criar imagens
+Além de geração des respostas a perguntas o Copilot tem disponível a criação de imagens usando a tecnologia do Dall-E.
+
+Segue alguns exemplos:
+
+![image](https://github.com/toniacprado/DIO-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/105946569/a2d99b85-78a1-4394-9fea-d7346bf6cc0b)
+
+![image](https://github.com/toniacprado/DIO-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/105946569/721762f4-7ce5-49d5-bd9e-695dbd8f05dc)
+
+
+
+
 Então uma sequencia de passos é necessária:
 
 1o. Ter uma conta na Azure. Acesso o  Azure portal no link https://portal.azure.com
