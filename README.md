@@ -58,7 +58,7 @@ Seguindo o exemplo da instrutora, pedi para ele gerar um código em Python para 
 
 ![image](https://github.com/toniacprado/DIO-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/105946569/c372a8b7-f51b-40a2-995a-5dea9af0a07d)
 
-Além de criar códigos a partir de solicitações em linguaguem natural, também é possível pedir para o copilot corrir erros ou sugerir melhorias em códigos já prontos.
+Além de criar códigos a partir de solicitações em linguaguem natural, também é possível pedir para o copilot corrigir erros ou sugerir melhorias em códigos já prontos.
 Usamos o Copilot aberto, mas também existem especializações como o GitHub Copilot que leva a função de copiloto para códigos para um nível muito mais poderoso e focado!
 
 #### Usando o Copilot para explorar conteúdo a partir de perguntas
@@ -68,13 +68,23 @@ Usamos o Copilot aberto, mas também existem especializações como o GitHub Cop
 ![image](https://github.com/toniacprado/DIO-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/105946569/1d722032-7b7d-451f-95aa-dda403d82cde)
 
 
+### Revisão teórica e Etapas da prática bloqueadas:
+
+Na composição deste lab a instrutora sugeriu a revisão teórica dos seguintos links:
+
+Explore Azure OpenAI
+
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13-azure-openai.html
+
+Explore content filters in Azure OpenAI
+
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html
+
+Pois para a execução PRÁTICA destes dois conteúdos (Explore Azure OpenAI e Explore content filters in Azure OpenAI) está bloqueada para usuários com contas particulares. E este é o meu caso atualmente.
+
+## Considerações Finais
+
+Neste lab experimentamos a prática nas ferramentas abertas da OpenAI e já foi possível ter um gostinho do poder disponível das ferramentas de Inteligência Generativas. E acredito que é só o começo, pois o poder do uso da AI Generativa está visivelmente dando altos gigante e esta disciplina da AI é a que mais tem atraído a atenção do público em geral.
 
 
-
-
-
-Então uma sequencia de passos é necessária:
-
-1o. Ter uma conta na Azure. Acesso o  Azure portal no link https://portal.azure.com
-
-2o. Ter uma assinatura válida (signature). É possível testar por 1 mês com 200 dólares de crédito.
+Toni A C Prado
