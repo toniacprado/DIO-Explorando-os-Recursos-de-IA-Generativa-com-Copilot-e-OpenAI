@@ -84,7 +84,7 @@ Pois para a execução PRÁTICA destes dois conteúdos (Explore Azure OpenAI e E
 
 ## Considerações Finais
 
-Neste lab experimentamos a prática nas ferramentas abertas da OpenAI e já foi possível ter um gostinho do poder disponível das ferramentas de Inteligência Generativas. E acredito que é só o começo, pois o poder do uso da AI Generativa está visivelmente dando altos gigante e esta disciplina da AI é a que mais tem atraído a atenção do público em geral.
+Neste lab experimentamos a prática nas ferramentas abertas da OpenAI e já foi possível ter um gostinho do poder disponível das ferramentas de Inteligência Generativas. E acredito que é só o começo, pois o poder do uso da AI Generativa está visivelmente dando saltos gigante e esta disciplina da AI é a que mais tem atraído a atenção do público em geral.
 
 
 Toni A C Prado
