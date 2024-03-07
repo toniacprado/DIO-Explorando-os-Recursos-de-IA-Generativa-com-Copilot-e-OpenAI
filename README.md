@@ -53,6 +53,24 @@ Segue alguns exemplos:
 ![image](https://github.com/toniacprado/DIO-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/105946569/721762f4-7ce5-49d5-bd9e-695dbd8f05dc)
 
 
+#### Usando o Copilot para criar código em linguagens de programação
+Seguindo o exemplo da instrutora, pedi para ele gerar um código em Python para um jogo da velha:
+
+![image](https://github.com/toniacprado/DIO-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/105946569/c372a8b7-f51b-40a2-995a-5dea9af0a07d)
+
+Além de criar códigos a partir de solicitações em linguaguem natural, também é possível pedir para o copilot corrir erros ou sugerir melhorias em códigos já prontos.
+Usamos o Copilot aberto, mas também existem especializações como o GitHub Copilot que leva a função de copiloto para códigos para um nível muito mais poderoso e focado!
+
+#### Usando o Copilot para explorar conteúdo a partir de perguntas
+![image](https://github.com/toniacprado/DIO-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/105946569/a4bc3d40-5d62-40de-8983-fbfd75ab9229)
+
+
+![image](https://github.com/toniacprado/DIO-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/105946569/1d722032-7b7d-451f-95aa-dda403d82cde)
+
+
+
+
+
 
 
 Então uma sequencia de passos é necessária:
